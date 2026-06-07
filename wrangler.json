@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "iq-test-quiz",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "2099ab98-acec-4952-91d2-f3a3581bed0b",
+			"database_name": "iq-test-quiz-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
